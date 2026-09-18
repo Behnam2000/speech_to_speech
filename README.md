@@ -1,6 +1,7 @@
 # speech_to_speech
 
 1- Install the Virtual_Audio_Cable on your windows
+
 2- Route the Browser Audio:
   * Open Windows Settings > System > Sound > Volume mixer. Find your web browser (e.g., Chrome, Edge) in the list of apps. Change its specific Output device from         "Default" to CABLE Input.
 3- Set the Script's Input:
