@@ -4,6 +4,7 @@
 
 2- Route the Browser Audio:
   * Open Windows Settings > System > Sound > Volume mixer. Find your web browser (e.g., Chrome, Edge) in the list of apps. Change its specific Output device from         "Default" to CABLE Input.
+
 3- Set the Script's Input:
   * Press Win+R, type mmsys.cpl, and hit Enter to open the classic Sound Control Panel. Go to the Recording tab, right-click CABLE Output, and select Set as Default      Device.
 
